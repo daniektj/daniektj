@@ -2,7 +2,7 @@
 <h1 align="left">⚡Daniek Reyes - Frontend Dev Jr.</h1>
 <h3 align="left">Actualmente tengo un año desenvolviéndome en el área de programación frontend, principalmente con tecnologías vanilla, sin embargo sigo estudiando librerías como React y me interesa aprender VUE y Next.</h3>
 
-- 🌱 Actualmente estudio **React**
+- 🏭 [Linkedin](https://www.linkedin.com/in/daniektj/)
 - 📫 Twitter: [@DaniekTj](https://www.twitter.com/daniektj)
 - 🚀 Mi portafolio [www.studio-c137.com](https://www.studio-c137.com)
 
@@ -46,4 +46,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 - 💬 Puedes preguntarme de **Figma, CSS**
+- 🌱 Actualmente estudio **React**
 -->
