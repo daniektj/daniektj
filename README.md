@@ -21,7 +21,7 @@
 <br/>
 
 <p >
-<img src="https://www.studio-c137.com/assets/images/text-profile.svg" alt="html5" width="334" height="40" style="margin: 0 8px;"/>
+<img src="https://www.studio-c137.com/assets/images/tools.svg" alt="html5" width="334" height="40" style="margin: 0 8px;"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" style="margin: 0 8px;" alt="html5" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" style="margin: 0 8px;" alt="css3" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="margin: 0 8px;" alt="javascript" width="40" height="40"/>
