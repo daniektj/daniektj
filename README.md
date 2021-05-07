@@ -4,11 +4,11 @@
 
 <br/>
 
-- 🌱 I’m currently learning **React**
-- 💬 Ask me about **Figma, CSS**
-- 🚀 My portfolio [www.studio-c137.com](www.studio-c137.com)
+- 🌱 Actualmente estudio **React**
+- 💬 Puedes preguntarme de **Figma, CSS**
+- 🚀 Mi portafolio [www.studio-c137.com](www.studio-c137.com)
 
-<h2 align="left">Connect with me:</h2>
+<h2 align="left">Contacta conmigo:</h2>
 <p align="left"></p>
 
 <p>
