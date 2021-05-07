@@ -1,4 +1,4 @@
-<img width="315" hight="430" alt="GIF" align="left"  src="https://www.studio-c137.com/assets/images/daniek03.svg" />
+<img width="310" hight="422" alt="GIF" align="left"  src="https://www.studio-c137.com/assets/images/daniek03.svg" />
 <h1 align="left">⚡Daniek Reyes Frontend Dev Jr.</h1>
 <h3 align="left">Actualmente tengo un año desenvolviéndome en el área de programación frontend principalmente con tecnologías vanilla, sin embargo sigo estudiando librerías como React y me interesa aprender VUE y Next.</h3>
 
