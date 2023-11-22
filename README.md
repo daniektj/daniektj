@@ -1,6 +1,6 @@
 <img width="323" hight="440" alt="GIF" align="left"  src="https://www.studio-c137.com/assets/images/daniek03.svg" />
 <h1 align="left">⚡Daniek Reyes - Frontend Dev</h1>
-<h3 align="left">Actualmente tengo un año desenvolviéndome en el área de programación frontend, principalmente con tecnologías vanilla, sin embargo sigo estudiando librerías como React y me interesa aprender VUE y Next.</h3>
+<h3 align="left">Apasiado de la tecnologia y la programación frontend, me encanta Next JS y Astro.</h3>
 
 - 🏭 Contacto Laboral: [Linkedin](https://www.linkedin.com/in/daniektj/)
 - 📫 Twitter: [@DaniekTj](https://www.twitter.com/daniektj)
