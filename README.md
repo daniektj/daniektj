@@ -1,4 +1,4 @@
-<img width="323" hight="440" alt="GIF" align="left"  src="https://www.studio-c137.com/assets/images/daniek03.svg" />
+<!--<img width="323" hight="440" alt="GIF" align="left"  src="https://www.studio-c137.com/assets/images/daniek03.svg" /> -->
 <h1 align="left">⚡Daniek Reyes - Frontend Dev</h1>
 <h3 align="left">Apasionado por la tecnología y la programación, me encanta Next JS y Astro.</h3>
 
@@ -25,8 +25,6 @@
 <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" style="margin: 0 0px;" alt="firebase" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="margin: 0 0px;" alt="git" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" style="margin: 0 0px;" alt="illustrator" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" style="margin: 0 0px;" alt="photoshop" width="40" height="40"/>
-<img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" style="margin: 0 0px;" alt="xd" width="40" height="40"/>
 </div>
 
 <img src="https://www.studio-c137.com/assets/images/tierra01.svg"></img>
