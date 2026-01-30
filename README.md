@@ -27,8 +27,6 @@
 <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" style="margin: 0 0px;" alt="illustrator" width="40" height="40"/>
 </div>
 
-<img src="https://www.studio-c137.com/assets/images/tierra01.svg"></img>
-
 <!--
 **daniektj/daniektj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
