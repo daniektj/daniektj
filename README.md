@@ -4,7 +4,6 @@
 
 - 🏭 Contacto Laboral: [Linkedin](https://www.linkedin.com/in/daniektj/)
 - 📫 Twitter: [@DaniekTj](https://www.twitter.com/daniektj)
-- 🚀 Mi portafolio [www.studio-c137.com](https://www.studio-c137.com)
 
 <!-- <h2 align="left">Contacta conmigo:</h2>
 <p align="left"></p>
