@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 410" width="1200" role="img" aria-labelledby="t d">
+  <title id="t">Daniek Reyes</title>
+  <desc id="d">Product Designer who codes. A before and after slider sweeps across the name, turning a wireframe into the finished design.</desc>
+  <style>
+    .name { font: 800 120px -apple-system, "Segoe UI", Helvetica, Arial, sans-serif; letter-spacing: -3px; }
+    .sans { font: 500 26px -apple-system, "Segoe UI", Helvetica, Arial, sans-serif; }
+    .mono { font: 500 13px ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, monospace; letter-spacing: 2px; }
+    .code { font: 500 22px ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, monospace; }
+    .wipe { transform: translateX(600px); animation: sweep 14s cubic-bezier(.65, 0, .35, 1) infinite; }
+    @keyframes sweep {
+      0%, 6%   { transform: translateX(600px); }
+      26%, 44% { transform: translateX(1085px); }
+      70%, 86% { transform: translateX(115px); }
+      100%     { transform: translateX(600px); }
+    }
+    @media (prefers-reduced-motion: reduce) { .wipe { animation: none; } }
+  </style>
+  <defs>
+    <clipPath id="card"><rect width="1200" height="410" rx="18"/></clipPath>
+    <clipPath id="reveal"><rect class="wipe" x="-1200" width="1200" height="410"/></clipPath>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#14305c" stroke-width="1"/>
+    </pattern>
+    <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse">
+      <circle cx="12" cy="12" r="1" fill="#2f3743"/>
+    </pattern>
+    <radialGradient id="glow" cx="30%" cy="45%" r="60%">
+      <stop offset="0" stop-color="#2a4fa3" stop-opacity=".45"/>
+      <stop offset="1" stop-color="#2a4fa3" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <g clip-path="url(#card)">
+    <!-- Wireframe: what is right of the handle -->
+    <rect width="1200" height="410" fill="#0a1730"/>
+    <rect width="1200" height="410" fill="url(#grid)"/>
+    <g stroke="#ff5c8a" stroke-width="1" stroke-dasharray="4 4" opacity=".85">
+      <path d="M60 154H1140M60 240H1140"/>
+    </g>
+    <g class="mono" fill="#ff5c8a" text-anchor="end">
+      <text x="1140" y="146">CAP HEIGHT</text>
+      <text x="1140" y="258">BASELINE</text>
+    </g>
+    <text class="mono" x="1140" y="52" fill="#6cb6ff" text-anchor="end">WIREFRAME</text>
+    <text class="mono" x="124" y="118" fill="#6cb6ff">H1 · 120 / 800 · -3</text>
+    <text class="name" x="120" y="240" textLength="780" lengthAdjust="spacingAndGlyphs"
+          fill="none" stroke="#6cb6ff" stroke-width="1.5" stroke-dasharray="7 5">Daniek Reyes</text>
+    <g fill="none" stroke="#6cb6ff" stroke-width="1.5" stroke-dasharray="7 5">
+      <rect x="124" y="282" width="340" height="18" rx="9"/>
+      <rect x="124" y="346" width="384" height="18" rx="9"/>
+    </g>
+
+    <!-- Final design: what is left of the handle -->
+    <g clip-path="url(#reveal)">
+      <rect width="1200" height="410" fill="#0b0e14"/>
+      <rect width="1200" height="410" fill="url(#dots)"/>
+      <rect width="1200" height="410" fill="url(#glow)"/>
+      <text class="mono" x="124" y="118" fill="#8b949e">FINAL</text>
+      <text class="name" x="120" y="240" textLength="780" lengthAdjust="spacingAndGlyphs" fill="#f0f6fc">Daniek Reyes</text>
+      <text class="sans" x="124" y="300" fill="#9da7b3">Product Designer who <tspan fill="#6cb6ff" font-weight="700">codes</tspan>.</text>
+      <text class="code" x="124" y="364" textLength="383" lengthAdjust="spacing"><tspan fill="#8b949e">&lt;</tspan><tspan fill="#7ee787">Designer</tspan><tspan fill="#79c0ff"> codes years</tspan><tspan fill="#8b949e">={</tspan><tspan fill="#ffa657">15</tspan><tspan fill="#8b949e">} /&gt;</tspan></text>
+    </g>
+
+    <!-- Slider handle -->
+    <g class="wipe">
+      <path d="M0 0V410" stroke="#ffffff" stroke-width="2"/>
+      <circle cy="205" r="22" fill="#ffffff"/>
+      <path d="M-5 198L-12 205L-5 212M5 198L12 205L5 212" fill="none" stroke="#0b0e14" stroke-width="2.5"
+            stroke-linecap="round" stroke-linejoin="round"/>
+    </g>
+  </g>
+</svg>
